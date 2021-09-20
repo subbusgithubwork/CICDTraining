@@ -1,1 +1,3 @@
 this is file3.txt
+My third file changes
+this is seeing third file diff

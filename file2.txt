@@ -1,1 +1,3 @@
 this is file2.txt
+My second file changes
+this is seeing second file diff
